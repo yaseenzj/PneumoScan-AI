@@ -40,7 +40,7 @@ graph LR
 ### Backend Setup (ML API)
 1. Navigate to the backend directory:
    ```bash
-   cd pneumoniaxpert/backend
+   cd backend
    ```
 2. Install dependencies:
    ```bash
@@ -54,7 +54,7 @@ graph LR
 ### Frontend Setup
 1. Navigate to the frontend directory:
    ```bash
-   cd pneumoniaxpert/frontend
+   cd frontend
    ```
 2. Install dependencies:
    ```bash
